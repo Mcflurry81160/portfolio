@@ -1,0 +1,15 @@
+.jumbotron-home-page {
+    height: 100vh;
+    background-color: rgb(162, 170, 179);;
+}
+
+.jumbotron-my-work {
+    height: 100vh;
+    background-color: rgb(235, 230, 230);
+}
+
+.jumbotron-contact {
+    height: 100vh;
+    background-color: rgb(162, 170, 179);
+}
+
