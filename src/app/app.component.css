@@ -1,6 +1,6 @@
 .jumbotron-home-page {
     height: 100vh;
-    background-color: rgb(162, 170, 179);;
+    background-color: rgba(201, 204, 207, 0.829);
 }
 
 .jumbotron-my-work {
@@ -9,7 +9,20 @@
 }
 
 .jumbotron-contact {
-    height: 100vh;
-    background-color: rgb(162, 170, 179);
+    height: 100vh;  
+    background-color: rgba(201, 204, 207, 0.829);
 }
 
+.navbar-fix {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.linked-in-logo {
+    margin-left: 75%;
+}
+
+.body-div {
+    position: relative;
+}
