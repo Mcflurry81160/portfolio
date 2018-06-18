@@ -26,3 +26,37 @@
 .body-div {
     position: relative;
 }
+
+.personal-desc {
+    position: absolute;
+    top: 35%;
+    transform: translate(35%, 50%);
+}
+
+.go-to-next-arrow {
+    position: absolute; 
+    width: 300px;
+    height: 200px;
+    z-index: 15;
+    top: 50%;
+    left: 50%;
+    margin: 150px 0 0 -150px;
+    
+}
+
+.lets-code-button {
+    position: absolute;
+    top: 150%;
+    transform: translate(35%, 150%);
+}
+
+.me-container {
+    height: 60vh !important;
+}
+
+li:hover {
+    background-color: lightgray;
+    border-radius: 3px;
+    /* opacity: 0.8; */
+    color: black;
+}
