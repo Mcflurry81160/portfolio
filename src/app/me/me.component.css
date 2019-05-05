@@ -1,0 +1,31 @@
+.jumbotron-home-page {
+    height: 100vh;
+    background-color: rgba(201, 204, 207, 0.829);
+}
+
+.jumbotron-my-work {
+    height: 100vh;
+    background-color: rgb(235, 230, 230);
+}
+
+.jumbotron-contact {
+    height: 100vh;  
+    background-color: rgba(201, 204, 207, 0.829);
+    padding-top: 80px;
+}
+
+.go-to-next-arrow {
+    position: absolute; 
+    width: 300px;
+    height: 200px;
+    z-index: 15;
+    top: 50%;
+    left: 50%;
+    margin: 150px 0 0 -150px;
+    
+}
+
+.me-container {
+    height: 60vh !important;
+}
+
